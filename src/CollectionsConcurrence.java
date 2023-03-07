@@ -1,7 +1,6 @@
-import java.util.*;
-import java.util.concurrent.BlockingDeque;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.LinkedBlockingQueue;
 
 public class CollectionsConcurrence {
