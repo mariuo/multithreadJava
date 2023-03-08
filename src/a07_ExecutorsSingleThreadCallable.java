@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.concurrent.*;
 
-public class ExecutorsSingleThreadCallable {
+public class a07_ExecutorsSingleThreadCallable {
     public static void main(String[] args) throws InterruptedException, ExecutionException, TimeoutException {
         ExecutorService exe = null;
         try{

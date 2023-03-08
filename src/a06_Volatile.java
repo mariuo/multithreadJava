@@ -1,7 +1,4 @@
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.concurrent.atomic.AtomicLong;
-
-public class Volatile {
+public class a06_Volatile {
     private static int i = 0;
     private static boolean isReady = false;
     public static void main(String[] args) {

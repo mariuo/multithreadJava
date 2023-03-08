@@ -3,7 +3,7 @@ import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class CyclicBarrier_1 {
+public class a10_CyclicBarrier_1 {
     public static void main(String[] args) {
         CyclicBarrier cyclicBarrier = new CyclicBarrier(3);
         ExecutorService executorService = Executors.newFixedThreadPool(3);

@@ -1,4 +1,4 @@
-public class Synchronized_01 {
+public class a02_Synchronized_01 {
     static int i = -1;
 
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class Synchronized_01 {
 
     }
     public static void print(){
-        synchronized (Synchronized_01.class){
+        synchronized (a02_Synchronized_01.class){
         i++;
         String name = Thread.currentThread().getName();
         System.out.println(name + ":"+ i);

@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-public class CollectionsConcurrence {
+public class a04_CollectionsConcurrence {
 
     //When modify the list, it will copy all complete array everytime.
 //    private static List<String> list = new CopyOnWriteArrayList<>();

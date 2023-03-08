@@ -1,4 +1,4 @@
-public class Volatile2 {
+public class a06_Volatile2 {
 //    private static int i = 0;
 //    private static boolean isReady = false;
 

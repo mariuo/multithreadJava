@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.*;
 
-public class Executors_Multithread {
+public class a08_Executors_Multithread {
     public static void main(String[] args) throws InterruptedException, ExecutionException {
         ExecutorService executorService = null;
         try{

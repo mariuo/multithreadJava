@@ -3,7 +3,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
-public class ExecutorsSingleThread {
+public class a07_ExecutorsSingleThread {
     public static void main(String[] args) throws InterruptedException {
         ExecutorService exe = null;
         try{

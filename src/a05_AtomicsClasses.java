@@ -1,7 +1,7 @@
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
 
-public class AtomicsClasses {
+public class a05_AtomicsClasses {
     static AtomicInteger i = new AtomicInteger(-1);
     static AtomicLong l = new AtomicLong(-1);
     public static void main(String[] args) {

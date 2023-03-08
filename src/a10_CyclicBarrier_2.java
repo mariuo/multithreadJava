@@ -1,6 +1,6 @@
 import java.util.concurrent.*;
 
-public class CyclicBarrier_2 {
+public class a10_CyclicBarrier_2 {
 
     private static BlockingQueue<Double> result = new LinkedBlockingQueue<>();
 

@@ -1,4 +1,4 @@
-public class MyRunnable implements Runnable{
+public class a01_MyRunnable implements Runnable{
 
     @Override
     public void run() {

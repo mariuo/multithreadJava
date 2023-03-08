@@ -1,8 +1,7 @@
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
-public class SyncCollections {
+public class a03_SyncCollections {
 
     private static List<String> list = new ArrayList<>();
     public static void main(String[] args) throws InterruptedException {
